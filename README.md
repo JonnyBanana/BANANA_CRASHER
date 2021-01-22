@@ -10,10 +10,7 @@ Also can crash some qr-code reader with malware protection Like Kaspersky Qr-Rea
 <b>ATTENTION!!! THIS ATTACK CAN SERIOUSLY 
 DAMAGE YOUR PHONE OR DEVICE!!!</b>
 
-The Qr is based on the css webkit filter DOS attack, and simply redirects the user to the linK of my repo: https: //github.com/JonnyBanana/safari-ie-reaper.github.io
-
-
-The Qr is based on the css webkit filter attack, and simply redirects the user to the linq of my repo:
+The QR is based on the css webkit filter DOS attack, and simply redirects the user to the linK of my repo: 
 
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
