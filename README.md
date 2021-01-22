@@ -5,7 +5,19 @@ Also can crash some qr-code reader with malware protection Like Kaspersky Qr-Rea
 
 
 
+<h2> How it Works?</h2>
 
+ATTENTION!!! THIS ATTACK CAN SERIOUSLY 
+DAMAGE YOUR PHONE OR DEVICE!!!
+
+The Qr is based on the css webkit filter DOS attack, and simply redirects the user to the linK of my repo: https: //github.com/JonnyBanana/safari-ie-reaper.github.io
+
+The attack can also be called by link: https://jonnybanana.github.io/safari-ie-reaper.github.io/
+
+
+The Qr is based on the css webkit filter attack, and simply redirects the user to the linq of my repo: https: //github.com/JonnyBanana/safari-ie-reaper.github.io
+
+The attack can also be called by link: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
 </BR>
@@ -13,6 +25,8 @@ Also can crash some qr-code reader with malware protection Like Kaspersky Qr-Rea
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/BANANA_CRASHER/main/BANANA_CRASHER/BANANA%20CRASHER.png)
 
 </BR>
+
+
 
 
 </BR>
