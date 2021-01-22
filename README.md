@@ -17,7 +17,9 @@ The Qr is based on the css webkit filter attack, and simply redirects the user t
 
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
-The attack can also be called by link: https://jonnybanana.github.io/safari-ie-reaper.github.io/
+The attack can also be called by link:
+
+https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
 
 </BR>
@@ -26,7 +28,7 @@ The attack can also be called by link: https://jonnybanana.github.io/safari-ie-r
 
 </BR>
 
-
+</BR>
 
 
 </BR>
