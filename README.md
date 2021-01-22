@@ -12,10 +12,8 @@ DAMAGE YOUR PHONE OR DEVICE!!!
 
 The Qr is based on the css webkit filter DOS attack, and simply redirects the user to the linK of my repo: https: //github.com/JonnyBanana/safari-ie-reaper.github.io
 
-The attack can also be called by link: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
-
-The Qr is based on the css webkit filter attack, and simply redirects the user to the linq of my repo: https: //github.com/JonnyBanana/safari-ie-reaper.github.io
+The Qr is based on the css webkit filter attack, and simply redirects the user to the linq of my repo: https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
 The attack can also be called by link: https://jonnybanana.github.io/safari-ie-reaper.github.io/
 
