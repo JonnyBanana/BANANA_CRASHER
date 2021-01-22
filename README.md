@@ -1,2 +1,6 @@
 # BANANA_CRASHER
-A QR-Code that Crash Browser on Almost All O.S. (Windows, Mac, Android, Ios, etc.), also can crash some qr-code reader with malware protection Like Kaspersky Qr Reader
+A QR-Code that Crash Browser on Almost All O.S. (Windows, Mac, Android, Ios, etc.), 
+
+also can crash some qr-code reader with malware protection Like Kaspersky Qr Reader.
+
+
