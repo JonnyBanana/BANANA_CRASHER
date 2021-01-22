@@ -14,10 +14,6 @@ The QR is based on the css webkit filter DOS attack, and simply redirects the us
 
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
-The attack can also be called by link:
-
-https://jonnybanana.github.io/safari-ie-reaper.github.io/
-
 
 </BR>
 
