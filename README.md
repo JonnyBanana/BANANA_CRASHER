@@ -12,7 +12,7 @@ Also can crash some qr-code reader with malware protection Like Kaspersky Qr-Rea
 <b>ATTENTION!!! IN SOME RARE CASES, THIS ATTACK CAN SERIOUSLY 
 DAMAGE YOUR PHONE OR DEVICE!!!</b>
 
-The QR is based on the css webkit filter DOS attack (discovered by pwnsdx), and simply redirects the user to the linK of this repo: 
+The QR is based on the css webkit filter DOS attack (discovered by pwnsdx), and simply redirects the user to the link of this repo: 
 
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
